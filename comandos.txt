@@ -1,0 +1,28 @@
+COMANDOS DE BASH (TERMINAL)
+
+touch
+crear archivo
+
+ls
+listar archivos
+
+mkdir
+crear carpeta
+
+cd
+cambiar de carpeta
+
+COMENDOS DE GIT
+
+git init
+inicializa git
+
+git status
+revisa el seguimiento de tus archivos
+
+git add <archivo>
+agrega un archivo a tu stagin area
+
+git add .
+agrega todos los archivos
+
